@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently interested in Machine Learning, Cyber-Security and Blockchain technology
-- 🌱 I’m currently learning about integrating different tech stacks
+- 🔭 Currently interested in Machine Learning, Cyber-Security and Blockchain technology
+- 🌱 Learning about integrating different tech stacks
 
 
 - 📫 How to reach me: aggarwalanand9@gmail.com
